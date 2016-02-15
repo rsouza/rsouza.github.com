@@ -24,8 +24,9 @@ Seções
 
 .. toctree::
    :titlesonly:
-   :maxdepth: 1
+   :maxdepth: 2
 
+   Disciplinas
    Projetos
    Publicacoes
    Equipe
